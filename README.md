@@ -14,5 +14,7 @@ The purpose of this project was to add much needed accessibility to the **Horise
 * All *Links* are functioning correctly.
 * The *CSS* has been consolidated and reordered to be more efficient.
 * The *CSS* contains descriptive commets before each element.
+## Screen Shots ##
+
 
 
