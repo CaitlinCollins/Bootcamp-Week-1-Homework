@@ -91,7 +91,7 @@ article {
 }
 
 /****** Section Style - Search Engine Organization. ******/
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,7 +101,7 @@ article {
 }
 
 /****** Section Style - Online Reputation Management ******/
-.online-reputation-management {
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,7 +111,7 @@ article {
 }
 
 /****** Section Style - Social Media Marketing ******/
-.social-media-marketing {
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -121,21 +121,21 @@ article {
 }
 
 /****** Image Syle - Search Engine Optimization ******/
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
 }
 
 /****** Image Style - Online Reputation Management ******/
-.online-reputation-management img {
+#online-reputation-management img {
     max-height: 200px;
     float: right;
     margin-left: 25px;
 }
 
 /****** Image Style - Social Media Marketing ******/
-.social-media-marketing img {
+#social-media-marketing img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
