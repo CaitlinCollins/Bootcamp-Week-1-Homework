@@ -15,7 +15,7 @@ h1 {
     font-size: 48px;
 }
 
-/****** SEO in H1 ******/
+/****** Color change in H1 ******/
 h1 .seo {
     color: #d9dcd6;
 }
@@ -90,8 +90,8 @@ article {
     margin-left: 20px;
 }
 
-/****** Section Style - Search Engine Organization. ******/
-#search-engine-optimization {
+/****** Article - Section Style ******/
+#search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -100,45 +100,18 @@ article {
     color: #ffffff;
 }
 
-/****** Section Style - Online Reputation Management ******/
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/****** Section Style - Social Media Marketing ******/
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/****** Image Syle - Search Engine Optimization ******/
-#search-engine-optimization img {
+/****** Article - Image Style - Float Left ******/
+#search-engine-optimization img, #social-media-marketing img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
 }
 
-/****** Image Style - Online Reputation Management ******/
+/****** Article - Image Style - Float Right ******/
 #online-reputation-management img {
     max-height: 200px;
     float: right;
     margin-left: 25px;
-}
-
-/****** Image Style - Social Media Marketing ******/
-#social-media-marketing img {
-    max-height: 200px;
-    float: left;
-    margin-right: 25px;
 }
 
 /****** Aside Style ******/
@@ -153,40 +126,14 @@ aside {
     background-color: #2589bd;
 }
 
-/***** Section Style - Benefit Lead ******/
-.benefit-lead {
+/***** Aside - Section Style ******/
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/****** Section Style - Benefit Brand ******/
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/****** Section Style - Benefit Cost ******/
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/****** Image Style - Benefit Lead ******/
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/****** Image Style - Benefit Brand ******/
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/****** Image Style - Benefit Cost ******/
-.benefit-cost img {
+/****** Aside - Image Style ******/
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
