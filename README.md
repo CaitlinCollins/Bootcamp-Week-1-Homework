@@ -16,6 +16,7 @@ The purpose of this project was to add much needed accessibility to the **Horise
 * The *CSS* contains descriptive commets before each element.
 ## Screen Shots ##
 ![Horiseon-Screen-Shot-1](https://github.com/CaitlinCollins/Bootcamp-Week-1-Homework/blob/main/assets/images/screen%20shots/Horiseon%20Screen%20Shot%201.png?raw=true)
+![Horiseon-Screen-Shot-2](https://github.com/CaitlinCollins/Bootcamp-Week-1-Homework/blob/main/assets/images/screen%20shots/Horiseon%20Screen%20Shot%202.png?raw=true)
 
 
 
