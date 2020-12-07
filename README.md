@@ -2,7 +2,9 @@
 On-the-job ticket: Accessibility 
 ## Table of Contents ##
 [Description](https://github.com/CaitlinCollins/Bootcamp-Week-1-Homework/blob/main/README.md#description)
+
 [Screen Shots](https://github.com/CaitlinCollins/Bootcamp-Week-1-Homework/blob/main/README.md#screen-shots)
+
 [Deploy Link](https://github.com/CaitlinCollins/Bootcamp-Week-1-Homework/blob/main/README.md#deploy-link)
 ## Description ##
 The purpose of this project was to add much needed accessibility to the **Horiseon** company website by refactoring the pre-existing code. The modification to the code ensure the following:
